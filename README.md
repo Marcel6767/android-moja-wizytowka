@@ -36,3 +36,27 @@ Do uzupełnienia podczas realizacji projektu.
 ## Źródła i materiały
 - https://developer.android.com/courses/android-basics-compose/unit-1
 - https://kotlinlang.org/
+
+## Etap 1 – Podstawy języka Kotlin
+
+### Wykonane zadania:
+- [x] Program przedstawiający ucznia
+- [x] Zastosowanie val i var
+- [x] Wyświetlanie danych za pomocą println()
+- [x] Funkcja obliczająca liczbę godzin zajęć
+- [x] Dwa przykłady wywołania funkcji
+- [x] Uruchomienie i sprawdzenie programu
+- [ ] Ukończenie quizu Kotlin
+
+### Wyniki programu:
+- 8 godzin x 4 tygodnie = 32 godziny
+- 10 godzin x 6 tygodni = 60 godzin
+
+### Wynik quizu:
+Do uzupełnienia po wykonaniu quizu.
+
+### Zrzuty ekranu:
+screenshots/etap-1/wynik-programu.png
+
+### Problemy i rozwiązania:
+Do uzupełnienia.
